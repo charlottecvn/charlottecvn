@@ -3,12 +3,12 @@
 
 - 🔌 I’m currently working on **Graph Neural Networks for reliability assesments of the MV power grid in the Netherlands**
 
-- 🌱 I’m looking to collaborate on **everything that involves Graph Neural Networks, weather forecasting (🌦️), and machine learning for power grid applications (⚡️)**
+- 🌱 I’m looking to collaborate on **research that involves Graph Neural Networks, weather forecasting (🌦️), and machine learning for power grid applications (⚡️)**
 
 - 📫 How to reach me **charlotte.cambiervannooten@ru.nl**
 
 # Last papers
-| Paper | Open-access PDF |
+| Paper | Open-access |
 | -------- | ------- |
 | Uncertainty Quantification using GNN Deep Ensembles for Contingency Decisions in the MV-grid (⚡️) | [authorea](https://doi.org/10.22541/au.176553429.90456296) |
 | Exploring the impact of adaptive rewiring in Graph Neural Networks (⚡️) | [arxiv](https://doi.org/10.48550/arXiv.2602.10754)|
