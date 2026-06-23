@@ -10,7 +10,8 @@
 # Last papers
 | Paper | Open-access |
 | -------- | ------- |
-| Uncertainty Quantification using GNN Deep Ensembles for Contingency Decisions in the MV-grid (⚡️) | [authorea](https://doi.org/10.22541/au.176553429.90456296) |
+| Endpoint Symmetry for Edge Updates: Weight-Space Redundancy in GNNs on Undirected Graphs (🔎) | [published version (ICML)](https://openreview.net/forum?id=qPAZaGHBFx)|
+| Uncertainty Quantification using GNN Deep Ensembles for Contingency Decisions in the MV-grid (⚡️) | [published version (IET)](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/gtd2.70262) |
 | Exploring the impact of adaptive rewiring in Graph Neural Networks (🔎) | [arxiv](https://doi.org/10.48550/arXiv.2602.10754)|
-| Graph neural networks for assessing the reliability of the medium-voltage grid (⚡️) | [published version](https://doi.org/10.1016/j.apenergy.2025.125401)|
-| Improving Precipitation Nowcasting for High-Intensity Events Using Deep Generative Models with Balanced Loss and Temperature Data: A Case Study in the Netherlands (🌦️) | [published version](https://doi.org/10.1175/AIES-D-23-0017.1) |
+| Graph neural networks for assessing the reliability of the medium-voltage grid (⚡️) | [published version (Applied Energy)](https://doi.org/10.1016/j.apenergy.2025.125401)|
+| Improving Precipitation Nowcasting for High-Intensity Events Using Deep Generative Models with Balanced Loss and Temperature Data: A Case Study in the Netherlands (🌦️) | [published version (AIES)](https://doi.org/10.1175/AIES-D-23-0017.1) |
