@@ -1,5 +1,5 @@
 <h1 align="center">Charlotte Cambier van Nooten 👩‍💻🌸</h1>
-<h3 align="center">PhD Candidate in Graph Neural Networks @ Radboud University</h3>
+<h3 align="center">Postdoc research in ML and Graph Neural Networks for energy and weather @ Radboud University</h3>
 
 - 🔌 I’m currently working on **Graph Neural Networks for reliability assesments of the MV power grid in the Netherlands**
 
